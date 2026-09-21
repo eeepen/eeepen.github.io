@@ -49,7 +49,7 @@ body {
 
 .top {
     display: flex;
-    gap: clamp(110px, 23vw, 170px);
+    gap: clamp(100px, 23vw, 170px);
 }
 
 .train {
