@@ -4,12 +4,12 @@
 }
 
 a {
-    color: #FFB27F;
+    color: #FF0000;
     text-decoration: none;
 }
 
 a:hover {
-    color: #FF6A00;
+    color: #FF7F7F;
 }
 
 body {
@@ -44,7 +44,7 @@ body {
 }
 
 .switch:hover {
-    border-color: #FF6A00;
+    border-color: #FF0000;
 }
 
 .top {
